@@ -1,0 +1,16 @@
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\bin\Debug\net5.0\ConsoleApp18.exe
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\bin\Debug\net5.0\ConsoleApp18.deps.json
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\bin\Debug\net5.0\ConsoleApp18.runtimeconfig.json
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\bin\Debug\net5.0\ConsoleApp18.runtimeconfig.dev.json
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\bin\Debug\net5.0\ConsoleApp18.dll
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\bin\Debug\net5.0\ref\ConsoleApp18.dll
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\bin\Debug\net5.0\ConsoleApp18.pdb
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.AssemblyInfo.cs
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.dll
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ref\ConsoleApp18.dll
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.pdb
+C:\Users\Sarvasw bais\source\repos\ConsoleApp18\obj\Debug\net5.0\ConsoleApp18.genruntimeconfig.cache
